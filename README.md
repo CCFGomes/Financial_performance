@@ -1,7 +1,7 @@
 # Financial Performance Analysis Project
 
 ## Overview
-This project focuses on conducting a comprehensive financial analysis for Cake in Box, emphasizing the annual and quarterly performance metrics for the year 2021.
+This project focuses on conducting a comprehensive financial analysis, emphasizing the annual and quarterly performance metrics for the year 2021.
 
 ## Project Highlights
 - Analyzed monthly sales revenue, net sales, costs, net profit, and contribution margin.
